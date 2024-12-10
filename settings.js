@@ -11,7 +11,7 @@ global.APIKeys = {
 }
 
 global.namabot = "Bot Store"
-global.namaowner = "Zeeoneofc"
+global.namaowner = "owner"
 global.packname = namabot
 global.author = namaowner
 global.myweb = "https://s.id/zeeoneofc"
